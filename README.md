@@ -1,9 +1,16 @@
   
-<img width="250" align="right" src="![image](https://github.comhassanelsherif90/hassanelsherif90/assets/101423134/e136b979-c1da-4776-9dad-21362606a984)
+<img width="250" align="right" src="![image](https://github.com/hassanelsherif90/hassanelsherif90/assets/101423134/e136b979-c1da-4776-9dad-21362606a984)
 ">
 
-<h3 align="center">A passionate Full Stack developer</h3>
+<h3 align="center">
+  Welcome to Hassan Ali's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p> 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hassanelsherif90&label=Profile%20views&color=0e75b6&style=flat" alt="hassanelsherif90" />
 		   <img src="https://img.shields.io/github/followers/hassanelsherif90?label=Followers" alt="hassanelsherif90" />
